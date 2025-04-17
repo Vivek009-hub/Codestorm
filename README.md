@@ -1,1 +1,1 @@
-MedicInfo is a Healthtech website having AI features that suggests diet plans,workout plans and there is also a medication tracker that track our medication according to time and notify us through alarm, 
+MedicInfo is a Healthtech website having AI features that suggests diet plans,workout plans and there is also a medication tracker that track our medication according to time and notify us through alarm.
