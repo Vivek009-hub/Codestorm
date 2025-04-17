@@ -1,0 +1,253 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aspirin",
+    "genericName": "Acetylsalicylic acid",
+    "category": "Pain Relief",
+    "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, fever, and inflammation.",
+    "usedFor": ["Pain relief", "Fever reduction", "Anti-inflammatory", "Heart attack prevention"],
+    "sideEffects": ["Stomach upset", "Heartburn", "Gastrointestinal bleeding", "Tinnitus"],
+    "safetyRating": 4
+  },
+  {
+    "id": 2,
+    "name": "Lisinopril",
+    "genericName": "Lisinopril",
+    "category": "Blood Pressure",
+    "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure.",
+    "usedFor": ["Hypertension", "Heart failure", "Myocardial infarction", "Diabetic nephropathy"],
+    "sideEffects": ["Dry cough", "Dizziness", "Headache", "Fatigue"],
+    "safetyRating": 4
+  },
+  {
+    "id": 3,
+    "name": "Metformin",
+    "genericName": "Metformin Hydrochloride",
+    "category": "Diabetes",
+    "description": "Metformin is an oral diabetes medicine that helps control blood sugar levels in patients with type 2 diabetes.",
+    "usedFor": ["Type 2 diabetes", "Polycystic ovary syndrome", "Insulin resistance", "Weight management"],
+    "sideEffects": ["Nausea", "Diarrhea", "Stomach pain", "Metallic taste"],
+    "safetyRating": 4
+  },
+  {
+    "id": 4,
+    "name": "Atorvastatin",
+    "genericName": "Atorvastatin Calcium",
+    "category": "Cholesterol",
+    "description": "Atorvastatin is a statin medication used to prevent cardiovascular disease and treat abnormal lipid levels.",
+    "usedFor": ["High cholesterol", "Prevention of heart disease", "Stroke prevention"],
+    "sideEffects": ["Muscle pain", "Digestive problems", "Liver function abnormalities"],
+    "safetyRating": 3
+  },
+  {
+    "id": 5,
+    "name": "Levothyroxine",
+    "genericName": "Levothyroxine Sodium",
+    "category": "Thyroid",
+    "description": "Levothyroxine is a synthetic form of the thyroid hormone thyroxine used to treat thyroid hormone deficiency.",
+    "usedFor": ["Hypothyroidism", "Goiter", "Thyroid cancer", "Cretinism"],
+    "sideEffects": ["Weight changes", "Appetite changes", "Insomnia", "Tremors"],
+    "safetyRating": 4
+  },
+  {
+    "id": 6,
+    "name": "Amoxicillin",
+    "genericName": "Amoxicillin Trihydrate",
+    "category": "Antibiotics",
+    "description": "Amoxicillin is a penicillin antibiotic that fights bacteria in the body.",
+    "usedFor": ["Bacterial infections", "Bronchitis", "Pneumonia", "Ear infections"],
+    "sideEffects": ["Diarrhea", "Rash", "Nausea", "Allergic reactions"],
+    "safetyRating": 4
+  },
+  {
+    "id": 7,
+    "name": "Omeprazole",
+    "genericName": "Omeprazole",
+    "category": "Digestive Health",
+    "description": "Omeprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach.",
+    "usedFor": ["Heartburn", "Gastroesophageal reflux disease", "Ulcers", "Zollinger-Ellison syndrome"],
+    "sideEffects": ["Headache", "Abdominal pain", "Diarrhea", "Vitamin B12 deficiency"],
+    "safetyRating": 3
+  },
+  {
+    "id": 8,
+    "name": "Amlodipine",
+    "genericName": "Amlodipine Besylate",
+    "category": "Blood Pressure",
+    "description": "Amlodipine is a calcium channel blocker that dilates blood vessels and improves blood flow.",
+    "usedFor": ["Hypertension", "Coronary artery disease", "Angina"],
+    "sideEffects": ["Edema", "Dizziness", "Flushing", "Headache"],
+    "safetyRating": 4
+  },
+  {
+    "id": 9,
+    "name": "Sertraline",
+    "genericName": "Sertraline Hydrochloride",
+    "category": "Mental Health",
+    "description": "Sertraline is an antidepressant in a group of drugs called selective serotonin reuptake inhibitors (SSRIs).",
+    "usedFor": ["Depression", "Panic attacks", "Obsessive-compulsive disorder", "Post-traumatic stress disorder"],
+    "sideEffects": ["Nausea", "Insomnia", "Diarrhea", "Dry mouth"],
+    "safetyRating": 3
+  },
+  {
+    "id": 10,
+    "name": "Albuterol",
+    "genericName": "Albuterol Sulfate",
+    "category": "Respiratory",
+    "description": "Albuterol is a bronchodilator that relaxes muscles in the airways and increases air flow to the lungs.",
+    "usedFor": ["Asthma", "Chronic obstructive pulmonary disease", "Bronchospasm"],
+    "sideEffects": ["Nervousness", "Tremor", "Headache", "Throat irritation"],
+    "safetyRating": 4
+  },
+  {
+    "id": 11,
+    "name": "Gabapentin",
+    "genericName": "Gabapentin",
+    "category": "Neurology",
+    "description": "Gabapentin is an anti-epileptic medication used to treat seizures and nerve pain.",
+    "usedFor": ["Seizures", "Neuropathic pain", "Restless legs syndrome", "Hot flashes"],
+    "sideEffects": ["Dizziness", "Drowsiness", "Peripheral edema", "Ataxia"],
+    "safetyRating": 3
+  },
+  {
+    "id": 12,
+    "name": "Simvastatin",
+    "genericName": "Simvastatin",
+    "category": "Cholesterol",
+    "description": "Simvastatin is a HMG-CoA reductase inhibitor used to lower blood cholesterol and reduce risk of cardiovascular disease.",
+    "usedFor": ["High cholesterol", "Prevention of heart disease", "Dyslipidemia"],
+    "sideEffects": ["Muscle pain", "Liver damage", "Digestive problems", "Memory problems"],
+    "safetyRating": 3
+  },
+  {
+    "id": 13,
+    "name": "Furosemide",
+    "genericName": "Furosemide",
+    "category": "Diuretics",
+    "description": "Furosemide is a loop diuretic that prevents your body from absorbing too much salt, allowing it to pass in your urine.",
+    "usedFor": ["Fluid retention", "Edema", "Heart failure", "Liver disease"],
+    "sideEffects": ["Increased urination", "Dehydration", "Electrolyte imbalance", "Dizziness"],
+    "safetyRating": 3
+  },
+  {
+    "id": 14,
+    "name": "Pantoprazole",
+    "genericName": "Pantoprazole Sodium",
+    "category": "Digestive Health",
+    "description": "Pantoprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach.",
+    "usedFor": ["Gastroesophageal reflux disease", "Erosive esophagitis", "Zollinger-Ellison syndrome"],
+    "sideEffects": ["Headache", "Diarrhea", "Stomach pain", "Nausea"],
+    "safetyRating": 4
+  },
+  {
+    "id": 15,
+    "name": "Loratadine",
+    "genericName": "Loratadine",
+    "category": "Allergy",
+    "description": "Loratadine is an antihistamine that reduces the effects of natural chemical histamine in the body.",
+    "usedFor": ["Hay fever", "Allergic symptoms", "Hives"],
+    "sideEffects": ["Headache", "Drowsiness", "Dry mouth"],
+    "safetyRating": 5
+  },
+  {
+    "id": 16,
+    "name": "Losartan",
+    "genericName": "Losartan Potassium",
+    "category": "Blood Pressure",
+    "description": "Losartan is an angiotensin II receptor blocker used to treat high blood pressure and diabetic kidney disease.",
+    "usedFor": ["Hypertension", "Diabetic nephropathy", "Heart failure", "Stroke prevention"],
+    "sideEffects": ["Dizziness", "Back pain", "Fatigue", "Upper respiratory infections"],
+    "safetyRating": 4
+  },
+  {
+    "id": 17,
+    "name": "Montelukast",
+    "genericName": "Montelukast Sodium",
+    "category": "Respiratory",
+    "description": "Montelukast is a leukotriene receptor antagonist used for the maintenance treatment of asthma.",
+    "usedFor": ["Asthma", "Allergic rhinitis", "Exercise-induced bronchoconstriction"],
+    "sideEffects": ["Headache", "Influenza", "Neuropsychiatric events", "Upper respiratory infection"],
+    "safetyRating": 3
+  },
+  {
+    "id": 18,
+    "name": "Escitalopram",
+    "genericName": "Escitalopram Oxalate",
+    "category": "Mental Health",
+    "description": "Escitalopram is an antidepressant belonging to a group of drugs called selective serotonin reuptake inhibitors (SSRIs).",
+    "usedFor": ["Depression", "Anxiety disorders", "Panic disorder", "Social anxiety disorder"],
+    "sideEffects": ["Nausea", "Insomnia", "Sexual dysfunction", "Drowsiness"],
+    "safetyRating": 3
+  },
+  {
+    "id": 19,
+    "name": "Hydrochlorothiazide",
+    "genericName": "Hydrochlorothiazide",
+    "category": "Diuretics",
+    "description": "Hydrochlorothiazide is a thiazide diuretic used to treat high blood pressure and fluid retention.",
+    "usedFor": ["Hypertension", "Edema", "Heart failure", "Kidney stones"],
+    "sideEffects": ["Electrolyte imbalance", "Increased urination", "Dizziness", "Increased blood sugar"],
+    "safetyRating": 3
+  },
+  {
+    "id": 20,
+    "name": "Warfarin",
+    "genericName": "Warfarin Sodium",
+    "category": "Blood Thinners",
+    "description": "Warfarin is an anticoagulant that reduces the formation of blood clots.",
+    "usedFor": ["Prevention of blood clots", "Atrial fibrillation", "Deep vein thrombosis", "Pulmonary embolism"],
+    "sideEffects": ["Bleeding", "Bruising", "Necrosis", "Purple toe syndrome"],
+    "safetyRating": 2
+  },
+  {
+    "id": 21,
+    "name": "Tramadol",
+    "genericName": "Tramadol Hydrochloride",
+    "category": "Pain Relief",
+    "description": "Tramadol is an opioid pain medication used to treat moderate to severe pain.",
+    "usedFor": ["Moderate to severe pain", "Chronic pain", "Fibromyalgia"],
+    "sideEffects": ["Dizziness", "Nausea", "Constipation", "Headache", "Drowsiness"],
+    "safetyRating": 2
+  },
+  {
+    "id": 22,
+    "name": "Fluoxetine",
+    "genericName": "Fluoxetine Hydrochloride",
+    "category": "Mental Health",
+    "description": "Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) antidepressant.",
+    "usedFor": ["Depression", "Obsessive-compulsive disorder", "Panic disorder", "Bulimia nervosa"],
+    "sideEffects": ["Nausea", "Insomnia", "Anxiety", "Drowsiness", "Sexual dysfunction"],
+    "safetyRating": 3
+  },
+  {
+    "id": 23,
+    "name": "Cetirizine",
+    "genericName": "Cetirizine Hydrochloride",
+    "category": "Allergy",
+    "description": "Cetirizine is an antihistamine that reduces the effects of natural chemical histamine in the body.",
+    "usedFor": ["Hay fever", "Allergic rhinitis", "Hives", "Chronic urticaria"],
+    "sideEffects": ["Drowsiness", "Fatigue", "Dry mouth", "Headache"],
+    "safetyRating": 4
+  },
+  {
+    "id": 24,
+    "name": "Prednisone",
+    "genericName": "Prednisone",
+    "category": "Anti-inflammatory",
+    "description": "Prednisone is a corticosteroid that prevents the release of substances in the body that cause inflammation.",
+    "usedFor": ["Inflammatory conditions", "Autoimmune disorders", "Allergic disorders", "Asthma"],
+    "sideEffects": ["Weight gain", "Mood changes", "Increased blood pressure", "Insomnia", "Cataracts"],
+    "safetyRating": 2
+  },
+  {
+    "id": 25,
+    "name": "Duloxetine",
+    "genericName": "Duloxetine Hydrochloride",
+    "category": "Mental Health",
+    "description": "Duloxetine is a serotonin-norepinephrine reuptake inhibitor used to treat depression and anxiety.",
+    "usedFor": ["Depression", "Generalized anxiety disorder", "Fibromyalgia", "Diabetic neuropathy"],
+    "sideEffects": ["Nausea", "Dry mouth", "Constipation", "Dizziness", "Fatigue"],
+    "safetyRating": 3
+  }
+]
